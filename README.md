@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](screenshot.jpg)
+![](screenshot.png)
 
 ### Links
 
@@ -47,7 +47,7 @@ Users should be able to:
 ### What I learned
 
 ```html
-<h1>Some things I practiced, were the "letter spacing" and "clip-path"</h1>
+Some things I practiced, were the "letter spacing" and "clip-path"
 ```
 ### Continued development
 
